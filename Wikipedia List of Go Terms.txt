@@ -9,8 +9,8 @@ Atari (Wikipedia List of Go Terms)|"
 Board positions (Wikipedia List of Go Terms)|"
 <p>As the distance of a stone from the edge of the board has important tactical and strategic implications, it is normal to term the corner points of the board (1, 1) points, and count lines in from the edge.
 </p>
-<ul><li>Star point<span style=""font-weight: normal""> (<span lang=""ja"" title=""Japanese language text"">星</span>, <i lang=""ja-Latn"" title=""Hepburn transliteration"">hoshi</i>)</span>: an intersection traditionally marked with a small dot on the board. These are either
-<ul><li>a) (4, 4) point in an empty corner, or</li>
+<ul align=""left""><li>Star point<span style=""font-weight: normal""> (<span lang=""ja"" title=""Japanese language text"">星</span>, <i lang=""ja-Latn"" title=""Hepburn transliteration"">hoshi</i>)</span>: an intersection traditionally marked with a small dot on the board. These are either
+<ul align=""left""><li>a) (4, 4) point in an empty corner, or</li>
 <li>a) (4, 10) or (10, 4) point on one of the sides</li></ul></li>
 <li>b) Origin of heaven<span style=""font-weight: normal""> (<span lang=""ja"" title=""Japanese language text"">天元</span>, <i lang=""ja-Latn"" title=""Hepburn transliteration""><a href=""https://en.wikipedia.org/wiki/Tengen_(Go)"" title=""Tengen (Go)"">tengen</a></i>)</span>: the center of the board, located at (10, 10).</li>
 <li>c) Five by five<span style=""font-weight: normal""> (<span lang=""ja"" title=""Japanese language text"">五の五</span>, <i lang=""ja-Latn"" title=""Hepburn transliteration"">go no go</i>)</span>: a (5, 5) point in a corner.</li>
