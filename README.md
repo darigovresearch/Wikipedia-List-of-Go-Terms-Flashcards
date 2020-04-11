@@ -26,4 +26,4 @@ Unless otherwise specified, everything in this repository is covered by the foll
 
 This repository uses material from the Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_Go_terms">"List of Go terms"</a>, which is released under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike License 3.0</a>.
 
-To see this work https://github.com/darigovresearch/Wikipedia-List-of-Go-Terms-Flashcards
+To see this work https://en.wikipedia.org/wiki/List_of_Go_terms
