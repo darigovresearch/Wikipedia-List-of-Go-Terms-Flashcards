@@ -10,7 +10,7 @@ Introduction (Wikipedia List of Go Terms)|"
 <h2>License</h2>
 <p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
 <p>This deck uses material from the Wikipedia article <a href=""https://en.wikipedia.org/wiki/List_of_Go_terms"">""List of Go terms""</a>, which is released under the <a href=""https://creativecommons.org/licenses/by-sa/3.0/"">Creative Commons Attribution-Share-Alike License 3.0</a>.</p>
-<p>To see this work <a href=""https://en.wikipedia.org/wiki/List_of_Go_terms"">https://en.wikipedia.org/wiki/List_of_Go_terms</a></p>
+<p>To see this work in full go to <a href=""https://en.wikipedia.org/wiki/List_of_Go_terms"">https://en.wikipedia.org/wiki/List_of_Go_terms</a></p>
 "
 Aji (Wikipedia List of Go Terms)|"
 <p>The closest English one could use is 'latent potential.' From the Japanese term <i>aji</i> (<span class=""t_nihongo_kanji""><span lang=""ja"" title=""Japanese language text"">味</span></span>), meaning taste, it refers to played stones' lingering ability to open various avenues of play. Though not all <i>aji</i> is pursued or taken advantage of, it bears on the course of the game. Good <i>aji</i> is when your groups are strong, and have little or no possibility of being compromised. Bad <i>aji</i> is when dead stones or weaknesses in one's own formation carry a latent threat of compromising an existing area should the situation become ripe. <i>Aji</i> is different from a simple defect or weakness in that it can be exploited and/or repaired in multiple ways at multiple stages of the game and the best way or time is not immediately clear; hence the ""aftertaste"" metaphor.
